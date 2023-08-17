@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+div{
+	padding: 50px;
+	Background-color: #f5f5f5
+}
+.first-box{
+	border: 1px solid gray;
+	height: 50px;
+}
+.second-box{
+	border: 1px solid  gray;
+	height: 50px;
+	
+}
+
